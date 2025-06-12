@@ -1,3 +1,4 @@
+![ESL Generator Banner](banner.png)
 # 📘 Bilingual Exercises – ESL Worksheet Generator v1.8
 
 Generate **custom bilingual ESL worksheets** based on topics, grammar focus, and CEFR level — with instructions translated into the student's native language.
